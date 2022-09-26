@@ -1,0 +1,4 @@
+nonterminals = S, T, Q, R, W, E, Y, U, A
+terminals = b, a, c, d
+S -> A
+T -> Q
